@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+}
+
+.name{
+    color: orange;
+}
+.break{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+   
+    
+    
+       
+}
+
+.break img{
+    width: 40%;
+    margin-left: 35%;
+    
+
+}
+
+
+.first-one{
+    background-image: url("images/bcmm.jpg");
+    
+}
+section{
+    height: 500px;
+}
+.button{
+    text-decoration: none;
+    border-radius: 5%;
+    background-color:lightsalmon;
+    padding: 10px 10px;
+    font-weight: 700;
+    color: white;  
+}
+
+.button a:hover{
+    background: black;
+}
+p{
+    color: gray;
+}
+.second-one{
+    background-image: url("images/whitee.jpg");
+}
+
+.work{
+    text-align: center;
+}
+
+.breakk img{
+    width: 45%;
+}
+.breakk{
+    float: left;
+    margin-left: 5%;
+}
+.third-one{
+    background-image: url(images/pattern.jpg);
+}
+footer p{
+    text-align: center;
+}
